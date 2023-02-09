@@ -71,5 +71,5 @@ Database -> DBMS -> App1, App2, App3
 
 ### Reference
 
-- [데이터베이스란?SQL vs NoSQL : 데이터베이스 기초](https://youtu.be/pk7FP2FDIw8)
-- [개발같은소리하네님 - 데이터베이스란 무엇인가?](https://youtu.be/P9H4u4direo)
+- YouTube
+  - [개발같은소리하네님 - 데이터베이스란 무엇인가?](https://youtu.be/P9H4u4direo)
