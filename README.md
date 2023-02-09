@@ -9,4 +9,4 @@
 
 ### Database
 
-[Database 의 기본개념, 배경 그리고 구조](Database/what-is-a-database.md)
+- [Database 의 기본개념, 배경 그리고 구조](Database/what-is-a-database.md)
