@@ -10,4 +10,4 @@
 ### Database
 
 - [Database 의 기본개념, 배경 그리고 구조](Database/what-is-a-database.md)
-- [Sql 과 NoSql 의 차이](Database/Difference-between-sql-nosql.md)
+- [SQL 과 NoSQL 의 차이](Database/Difference-between-sql-nosql.md)
