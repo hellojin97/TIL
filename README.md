@@ -9,5 +9,5 @@
 
 ### Database
 
-- [Database 의 기본개념, 배경 그리고 구조](Database/what-is-a-database.md)
-- [SQL 과 NoSQL 의 차이](Database/Difference-between-sql-nosql.md)
+- [[Default] Database 의 기본개념, 배경 그리고 구조](Database/what-is-a-database.md)
+- [[Default] SQL 과 NoSQL 의 차이](Database/Difference-between-sql-nosql.md)
