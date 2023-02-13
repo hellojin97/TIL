@@ -11,4 +11,6 @@
 
 - [[Default] Database 의 기본개념, 배경 그리고 구조](Database/what-is-a-database.md)
 - [[Default] SQL 과 NoSQL 의 차이](Database/Difference-between-sql-nosql.md)
+
 - [[MySQL] 데이터 베이스 알아보기](Database/mysql_1_db_overview.md)
+- [[MySQL] 데이터 베이스 모델링](Database/mysql_2_db_modeling.md)

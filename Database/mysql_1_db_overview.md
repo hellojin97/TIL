@@ -62,3 +62,10 @@
   - SQL Server --> T-SQL
 
 ### *MySQL 로 공부를 시작하지만 표준 SQL 위주로 학습을 하는 것이 중요.*
+
+---
+
+### Reference
+
+- Book
+  - [혼자 공부하는 SQL](http://www.yes24.com/Product/Goods/104661489)
