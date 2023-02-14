@@ -16,8 +16,8 @@
 
 - [[MySQL] 1. 데이터 베이스 알아보기](Database/mysql_1_db_overview.md)
 - [[MySQL] 2. 데이터 베이스 모델링](Database/mysql_2_db_modeling.md)
-- [[MySQL] 3. 데이터 베이스 만들기](Database/mysql_3_db_create.md)
+- [[MySQL] 3. 데이터 베이스 SQL 로 이해하지 못해도 한번 흐름 경험하기](Database/mysql_3_db_study_flow.md)
 
-### Dev Ops
+<!-- ### Dev Ops -->
 
-#### AWS(Amazon Web Service)
+<!-- #### AWS(Amazon Web Service) -->
