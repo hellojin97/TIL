@@ -17,6 +17,7 @@
 - [[MySQL] 1. 데이터 베이스 알아보기](Database/mysql_1_db_overview.md)
 - [[MySQL] 2. 데이터 베이스 모델링](Database/mysql_2_db_modeling.md)
 - [[MySQL] 3. 데이터 베이스 SQL 로 이해하지 못해도 한번 흐름 경험하기](Database/mysql_3_db_study_flow.md)
+- [[MySQL] 4. 데이터 베이스 개체(인덱스, 뷰, 프로시저 등) 맛보기](Database/mysql_4_index_view_etc.md)
 
 <!-- ### Dev Ops -->
 
