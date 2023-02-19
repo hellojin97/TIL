@@ -27,3 +27,8 @@
     - **큐**, **스택** 이 대표적인 예
 - 비선형 구조(Non-Linear Data Structure) : 데이터 요소가 비순차적이며 단일 실행일 경우 모든 요소를 순회할 수 없음.
   - **그래프**, **트리** 등이 대표적인 예
+
+### Reference
+
+- [자료 구조 - 동적 배열, 정적 배열](https://medium.com/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%80-%EB%AF%B8%EC%B9%9C%EC%A7%93%EC%9D%B4%EB%8B%A4/5-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%B0%B0%EC%97%B4-%EB%8F%99%EC%A0%81-%EB%B0%B0%EC%97%B4-7b2b3eb939a2)
+- [Data Structures](https://www.geeksforgeeks.org/data-structures/)
