@@ -10,6 +10,7 @@
 ### Data Structure
 
 - [자료구조 Overview](ComputerScience/data_structure_overview.md)
+- [알고리즘 Overview - 점근적 표기법](ComputerScience/asymptotic_notation.md)
 
 ### Database
 
