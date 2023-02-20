@@ -46,6 +46,8 @@ f(n) = 0.6n^2 + 1000n + 3000
 
 ### Big-O notation(빅오 표기법)
 
+![big o notation](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Big-O-notation.png/600px-Big-O-notation.png)
+
 ```text
 f(n) = O(g(n))
 
@@ -57,6 +59,8 @@ f(x) <= C * g(x)
 - 세 표기법 중 가장 많이 사용됨.
 
 ### Big-Ω notation(빅오메가 표기법)
+
+![big omega notation](https://media.geeksforgeeks.org/wp-content/uploads/AlgoAnalysis-3.png)
 
 ```text
 f(n) = Ω(g(n))
