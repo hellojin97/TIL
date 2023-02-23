@@ -20,3 +20,4 @@
 ### Data Structure
 
 - [자료구조에 대해서 간단하게 설명(Jola 간단😅)](DataStructure/data_structure_overview.md)
+- [(작성중 ✍🏻)자료구조 - 배열에 대하여](DataStructure/data_structure_array.md)
