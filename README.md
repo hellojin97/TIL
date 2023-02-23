@@ -9,9 +9,12 @@
 
 ### Computer Science
 
+#### 자료구조와 알고리즘
+
+- [CS 기초 - Binary system](ComputerScience/binary_system.md)
 - [자료구조 Overview](ComputerScience/data_structure_overview.md)
 - [알고리즘 Overview - 점근적 표기법](ComputerScience/asymptotic_notation.md)
-- [CS 기초 - Binary system](ComputerScience/binary_system.md)
+- [자료구조 - 배열, 벡터, 연결리스트](ComputerScience/data_structure_1.md)
 
 ### Database
 
