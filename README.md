@@ -16,7 +16,8 @@
   - [알고리즘 Overview - 점근적 표기법](ComputerScience/asymptotic_notation.md)
   - [자료구조 - 배열, 벡터, 연결리스트](ComputerScience/data_structure_1.md)
   - [자료구조 - 큐, 스택](ComputerScience/data_structure_2.md)
-
+  -[자료구조 - 우선순위 큐(Heap)](ComputerScience/data_structure_3.md)
+  
 ### Database
 
 - #### Default
