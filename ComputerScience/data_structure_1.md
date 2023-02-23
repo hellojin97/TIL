@@ -69,3 +69,7 @@ vector_test.append((789, 987))
     - ***즉, 배열처럼 연속적으로 할당되어 있는 것 아니라는 것.***
 - 다른 자료구조들을 구현할 때 많이 쓰임.
 - 배열과 시간복잡도가 반대라서 면접 질문에서 주로 나옴.
+
+### Reference
+
+- <https://www.udemy.com/course/comgong_codingtest/>
