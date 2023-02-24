@@ -1,4 +1,6 @@
-# Array, 배열
+# Array, 배열(작성중)
+
+## What is an array?
 
 ![Array](https://media.geeksforgeeks.org/wp-content/uploads/20220721080308/array.png)
 
@@ -17,22 +19,26 @@
   - 동적(**`dynamically`**)으로 할당이 가능함.
   - 동적 메모리 할당 : 런타임 및 실행하는 동안 메모리 공간을 할당하는 과정
 
-- Array 의 필요성
+## Need of Array
 
-     ![need of Array](https://media.geeksforgeeks.org/wp-content/uploads/20220728175153/Needforarray-660x379.png)
+![need of Array](https://media.geeksforgeeks.org/wp-content/uploads/20220728175153/Needforarray-660x379.png)
 
-  1. 학생 5명의 시험 점수를 가고 있다고 가정.
-     - 그럼 변수 1개씩 선언하여 점수를 저장할 수 있음.
-     - 만약 여기서 학생 5명이 아닌 더 많은 수의 학생들의 점수를 기록해야 한다면?
-     - ***너무 복잡하고 많은 변수를 선언해야함.***
+1. 학생 5명의 시험 점수를 가고 있다고 가정.
+   - 그럼 변수 1개씩 선언하여 점수를 저장할 수 있음.
+   - 만약 여기서 학생 5명이 아닌 더 많은 수의 학생들의 점수를 기록해야 한다면?
+   - ***너무 복잡하고 많은 변수를 선언해야함.***
 
-  2. 이것이 의미하는 것은?
-     - 작은 수의 객체는 변수로 선언하여 저장해도 되지만
-     - 우리가 저장할 필요가 있는 데이터가 많아질 경우 변수로 저장하는 방식은 관리하는 측면에서 굉장히 어렵고 난감.
-     - 배열은 하나의 변수로 여러 인스턴스(데이터)를 저장할 수 있음.
+2. 이것이 의미하는 것은?
+   - 작은 수의 객체는 변수로 선언하여 저장해도 되지만
+   - 우리가 저장할 필요가 있는 데이터가 많아질 경우 변수로 저장하는 방식은 관리하는 측면에서 굉장히 어렵고 난감.
+   - 배열은 하나의 변수로 여러 인스턴스(데이터)를 저장할 수 있음.
+
+## Array in Python
+
+(작성예정)
 
 ## 참고
 
 - <https://www.geeksforgeeks.org/array-data-structure/>
 - <https://www.geeksforgeeks.org/introduction-to-arrays-data-structure-and-algorithm-tutorials/>
-- <>
+- <https://www.freecodecamp.org/news/python-array-tutorial-define-index-methods/>

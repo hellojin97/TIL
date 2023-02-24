@@ -20,4 +20,9 @@
 ### Data Structure
 
 - [자료구조에 대해서 간단하게 설명(Jola 간단😅)](DataStructure/data_structure_overview.md)
-- [(작성중 ✍🏻)자료구조 - 배열에 대하여](DataStructure/data_structure_array.md)
+- [자료구조 - 배열, **Array**](DataStructure/data_structure_array.md)
+
+### Operating System
+
+- [운영체제에 대해서](OperatingSystem/ostep_intro_preface.md)
+- [운영체제 개요, CPU 가상화, 메모리 가상화](OperatingSystem/ostep_os_overview.md)
