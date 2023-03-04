@@ -6,9 +6,13 @@
 *현재 우아한 형제들의 [Namjun Kim](https://github.com/namjunemy/TIL) 님의 TIL 기록 방식을 따라해보면서 공부 습관을 늘리려 합니다.*
 
 - Today I was..
-  - 자료구조 알아가는중(02.28.23)
+  - Hadoop, Hive, spark ...etc 엔지니어링 스택 공부중(Mar. 4)
 
 ## Contents
+
+### DataEngineering
+
+- [Hadoop 이란?](DataEngineering/hadoop#1.md)
 
 ### Database
 
