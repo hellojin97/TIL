@@ -12,8 +12,8 @@
 
 ### DataEngineering
 
-- [Hadoop 이란](DataEngineering/hadoop#1_intro.md)
-- [Hadoop Eco-system](DataEngineering/hadoop#2_ecosystem.md)
+- [Hadoop 이란](DataEngineering/hadoop_1_intro.md)
+- [Hadoop Eco-ystem](DataEngineering/hadoop_2_ecosystem.md)
 
 ### Database
 
