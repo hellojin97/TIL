@@ -55,7 +55,7 @@ HDFS 를 사용하는 방법.
 
 ```mermaid
 graph TD
-A[Client] -- Read/Write request --> B[NameNode(Metadata management)]
+A[Client] -- Read/Write request --> B[NameNode]
 B -- Block location info --> A
 B -- Block location info --> C[DataNode1]
 B -- Block location info --> D[DataNode2]
@@ -66,5 +66,4 @@ D[DataNode2] -- Store block --> C[DataNode1]
 D[DataNode2] -- Store block --> E[DataNode3]
 E[DataNode3] -- Store block --> C[DataNode1]
 E[DataNode3] -- Store block --> D[DataNode2]
-
 ```
