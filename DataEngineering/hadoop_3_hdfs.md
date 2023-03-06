@@ -55,9 +55,16 @@ HDFS 를 사용하는 방법.
 
 ```mermaid
 graph TD
-A[Client] -- Read/Write request --> B[NameNode]
-B -- Block location info --> A
-B -- Block location info --> C[DataNode1]
-B -- Block location info --> D[DataNode2]
-B -- Block location info --> E[DataNode3]
+A[클라이언트] -- 데이터 읽기/쓰기 --> B[네임노드(메타데이터 관리)]
+B -- 블록 위치 정보 전송 --> A
+B -- 블록 위치 정보 전송 --> C[데이터 노드1]
+B -- 블록 위치 정보 전송 --> D[데이터 노드2]
+B -- 블록 위치 정보 전송 --> E[데이터 노드3]
+C[데이터 노드1] -- 블록 저장 --> D[데이터 노드2]
+C[데이터 노드1] -- 블록 저장 --> E[데이터 노드3]
+D[데이터 노드2] -- 블록 저장 --> C[데이터 노드1]
+D[데이터 노드2] -- 블록 저장 --> E[데이터 노드3]
+E[데이터 노드3] -- 블록 저장 --> C[데이터 노드1]
+E[데이터 노드3] -- 블록 저장 --> D[데이터 노드2]
+
 ```
