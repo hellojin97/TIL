@@ -52,3 +52,12 @@ HDFS 를 사용하는 방법.
 > - example) 데이터가 손실되거나 손상되지 않고 복구될 수 있어야 함.
 >   - 이와 같은 경우 데이터가 여러 개의 노드에 분산 저장되거나, 복제되어 저장되어야 함.
 > 고가용성과 내결함성은 HDFS 와 같은 분산 파일 시스템에서 매우 중요한 요소로 항상 고려되어야 함.
+
+```mermaid
+graph TD
+A[Client] -- Read/Write request --> B[NameNode]
+B -- Block location info --> A
+B -- Block location info --> C[DataNode1]
+B -- Block location info --> D[DataNode2]
+B -- Block location info --> E[DataNode3]
+```
