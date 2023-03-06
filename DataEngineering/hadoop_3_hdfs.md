@@ -2,7 +2,7 @@
 
 ## HDFS (Hadoop Distributed File System)
 
-![Hadoop Distributed File System](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1024px-Hadoop_logo.svg.png)
+![Hadoop Distributed File System](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabpHYCYN9RNeYJYFYTDesAZX2JhRHAxUC4LEhmgKYAJyAKRFvNpiZwf6PMFrxhgRUPw&usqp=CAU)
 <!-- 
 Hadoop 개요 및 아키텍처 이해
 Hadoop이란 무엇인지, 어떻게 동작하는지 등에 대한 개념을 이해합니다.
